@@ -1,0 +1,1 @@
+all concepts of sql
